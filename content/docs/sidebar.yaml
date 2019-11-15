@@ -6,6 +6,8 @@
       path: /docs/getting-started/installation
     - title: Quick Start
       path: /docs/getting-started/quick-start
+    - title: Contributing
+      path: /docs/getting-started/contributing
 - title: Using Appsody
   items:
     - title: Initializing Projects
