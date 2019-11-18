@@ -38,8 +38,8 @@ Become a part of the team!
 
 There are 3 main sections you can contribute to as part of the team.
 
-- CLI
-- Stacks
-- Website
+* CLI
+* Stacks
+* Website
 
 Each section has it's own rules on contributing.
