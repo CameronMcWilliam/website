@@ -148,10 +148,10 @@ The variables that stack creators can use to access stack values are:
 
 #### Custom stack variables
 
-If you want to use your own custom variables, you can declare a `templating-data` map in your `stack.yaml`. This map can contain only `key`: `value` pairs.
+If you want to use your own custom variables, you can declare a `stack-variables` map in your `stack.yaml`. This map can contain only `key`: `value` pairs.
 
 ```
-templating-data:
+stack-variables:
   variable1: value1
   variable2: value2
   variable3: value3
